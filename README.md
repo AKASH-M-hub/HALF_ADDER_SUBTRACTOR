@@ -73,6 +73,8 @@ RegisterNumber:24900103
 
 
 **RTL Schematic**
+
+
 ![image](https://github.com/user-attachments/assets/4a964458-a07b-41f8-9765-6e1891529146)
 
 
