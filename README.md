@@ -55,6 +55,9 @@ Figure -02 HALF Subtractor
 ![image](https://github.com/user-attachments/assets/b44e3e15-c64a-4af5-9b6c-13df75878ecb)
 
 
+![image](https://github.com/user-attachments/assets/ab1a3491-89ad-4274-baa7-a1f8c31f46d6)
+
+
 
 
 Developed by:Akash M 
@@ -65,6 +68,12 @@ RegisterNumber:24900103
 **Output/TIMING Waveform**
 
 
+![image](https://github.com/user-attachments/assets/471916b5-938b-4aa3-9b2f-0f389a51e03b)
+
+
+
+**RTL Schematic**
+![image](https://github.com/user-attachments/assets/4a964458-a07b-41f8-9765-6e1891529146)
 
 
 
