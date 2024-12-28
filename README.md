@@ -70,6 +70,13 @@ RegisterNumber:24900103
 
 ![image](https://github.com/user-attachments/assets/471916b5-938b-4aa3-9b2f-0f389a51e03b)
 
+**Truth table**
+
+![image](https://github.com/user-attachments/assets/2aaebda1-1950-4579-8274-f06101875d54)
+
+
+![image](https://github.com/user-attachments/assets/73d35057-22b8-476c-9e50-0a615750479f)
+
 
 
 **RTL Schematic**
@@ -77,6 +84,9 @@ RegisterNumber:24900103
 
 
 ![image](https://github.com/user-attachments/assets/1983d156-2e98-4b39-a532-75d3afa4d403)
+
+
+![image](https://github.com/user-attachments/assets/27935a35-f63b-495f-93ed-8a00446f3f70)
 
 
 
